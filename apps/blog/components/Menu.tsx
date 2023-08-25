@@ -11,9 +11,9 @@ const Menu = () => {
 
   return (
     <Flex height="56px" bg="backgroundAlt" px="16px" alignItems="center" justifyContent="space-between" zIndex={9}>
-      <Flex>
-        <Logo href="/" />
-      </Flex>
+      {/* <Flex> */}
+      {/*   <Logo href="/" /> */}
+      {/* </Flex> */}
       <Flex alignItems="center">
         <NoSSR>
           <Box mr="16px">
